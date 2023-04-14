@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Projects>
+    <Project>
+		<ProjectName>123</ProjectName>
+        <Setting Type="Str" Name="ServerName" Value="ABC"/>
+		<Setting Type="Str" Name="ServerPort" Value="2745"/>
+    </Project>
+	<Project>
+		<ProjectName>456</ProjectName>
+		<Setting Type="Str" Name="ServerName" Value="DEF"/>
+		<Setting Type="Str" Name="ServerPort" Value="2746"/>
+	</Project>
+	<Project>
+		<ProjectName>789</ProjectName>
+		<Setting Type="Str" Name="ServerName" Value="G"/>
+		<Setting Type="Str" Name="ServerPort" Value="2747"/>
+	</Project>
+</Projects>
